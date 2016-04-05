@@ -13,7 +13,6 @@ Design pattern:
 
 [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
-[閉包（Closure）](http://openhome.cc/Gossip/JavaScript/Closure.html) 
+[閉包（Closure）](http://openhome.cc/Gossip/JavaScript/Closure.html)
 
-[Functional Reactive Programming 的入門心得
-從](https://medium.com/@rayshih771012/functional-reactive-programming-70be6bd8726b#.4p0lzpbap)
+[Functional Reactive Programming 的入門心得](https://medium.com/@rayshih771012/functional-reactive-programming-70be6bd8726b#.4p0lzpbap)
