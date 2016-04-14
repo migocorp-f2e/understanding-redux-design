@@ -11,6 +11,7 @@ Design pattern:
    * [Todo](https://jsbin.com/suwete/edit?js,console)
    * [Answer](https://jsbin.com/nucapu/edit?js,console)
  - Single source of Truth
+   * [pdf](https://github.com/migocorp-f2e/understanding-redux-design/blob/master/createStore/redux-store-data-flow.pdf)
 
 [create store demo](https://jsbin.com/zuwovo/edit?js,output)
 
