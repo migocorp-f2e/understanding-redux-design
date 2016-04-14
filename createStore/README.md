@@ -12,6 +12,8 @@ Design pattern:
    * [Answer](https://jsbin.com/nucapu/edit?js,console)
  - Single source of Truth
 
+[create store demo](https://jsbin.com/zuwovo/edit?js,output)
+
 ## 資源
 
 [從 source code 來看 Redux 更新 state 的運行機制](https://medium.com/@as790726/%E5%BE%9E-source-code-%E4%BE%86%E7%9C%8B-redux-%E7%9A%84%E9%81%8B%E8%A1%8C%E6%A9%9F%E5%88%B6-f5e0adc1b9f6#.cptq1ts1j)
