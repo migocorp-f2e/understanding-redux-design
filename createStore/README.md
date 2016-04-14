@@ -1,8 +1,13 @@
 # createStore
 
 Design pattern:
+Design pattern:
  - Observer (觀察者模式)
+   * [Demo](https://jsbin.com/tugulo/edit?js,console)
+   * [todo](https://jsbin.com/qucalu/edit?js,console)
  - Closure (閉包)
+   * [Demo](https://jsbin.com/qagima/edit?js,console)
+   * [todo](https://jsbin.com/suwete/edit?js,console)
  - Single source of Truth
 
 ## 資源
