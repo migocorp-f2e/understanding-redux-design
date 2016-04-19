@@ -1,13 +1,13 @@
 # compose
 
 Design pattern:
-- reduceRight
-- 複合函數
-	* [Demo](http://jsbin.com/quhofa/edit?js,console)
-- curry(柯里)
+- functional programing 的 compose(代碼組合)
+    * 從左到右組合多個函數        
+    * 複合函數
+    * [Demo1](http://jsbin.com/deguqa/1/edit?js,console)
+	* [Demo2](http://jsbin.com/quhofa/edit?js,console)
 
 ##資源
 - [reduceRight](https://msdn.microsoft.com/zh-tw/library/ff679979(v=vs.94).aspx)
 - [compose官方文件中文版](https://camsong.github.io/redux-in-chinese/docs/api/compose.html)
-- [[譯]深入淺出Redux中間件](http://www.zhangxinxu.com/wordpress/2013/02/js-currying/)
-- [Redux中間件](http://syaning.com/2016/03/25/redux-middleware/)
+- [函數式編程初探](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
