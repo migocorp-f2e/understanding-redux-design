@@ -6,6 +6,9 @@ Design pattern:
     * 複合函數
     * [Demo1](http://jsbin.com/deguqa/1/edit?js,console)
 	* [Demo2](http://jsbin.com/quhofa/edit?js,console)
+- reduceRight
+    * 用法同reduce()
+    * 與reduce()的執行方向相反
 
 ##資源
 - [reduceRight](https://msdn.microsoft.com/zh-tw/library/ff679979(v=vs.94).aspx)
