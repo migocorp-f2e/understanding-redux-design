@@ -11,6 +11,8 @@
 
 [TODO 2](https://jsbin.com/bekozi/edit?html,js,output)
 
+[TODO X-arrow function](https://jsbin.com/mibehi/edit?html,js,output)
+
 # Writing Middleware
 
 # applyMiddleware
