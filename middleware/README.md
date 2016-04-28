@@ -5,6 +5,8 @@
 ## 2. Why middleware?
 [Redux middleware document](https://camsong.github.io/redux-in-chinese/docs/advanced/Middleware.html)
 
+# Writing Middleware
+
 [TODO 1-手動記錄](https://jsbin.com/taveti/1/edit)
 
 [TODO 1-封裝Dispatch](https://jsbin.com/coqepi/edit?html,js,console,output)
@@ -20,12 +22,6 @@
 
 
 [DEMO 2-thunk middleware](https://jsbin.com/towucac/1/edit?js,output)
-
-[TODO 2](https://jsbin.com/bekozi/edit?html,js,output)
-
-[TODO X-arrow function](https://jsbin.com/mibehi/edit?html,js,output)
-
-# Writing Middleware
 
 # applyMiddleware
 
