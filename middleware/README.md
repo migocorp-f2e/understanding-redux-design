@@ -6,8 +6,18 @@
 [Redux middleware document](https://camsong.github.io/redux-in-chinese/docs/advanced/Middleware.html)
 
 [TODO 1-手動記錄](https://jsbin.com/taveti/1/edit)
-[TODO 1-封裝Dispatch](https://jsbin.com/coqepi/1/edit?html,js)
-[TODO 1-Monkeypatching Dispatch](https://jsbin.com/wobudem/edit?html,js,console,output)
+
+[TODO 1-封裝Dispatch](https://jsbin.com/coqepi/edit?html,js,console,output)
+
+[TODO 1-Monkeypatching Dispatch](https://jsbin.com/susafev/edit?js,console)
+
+[TODO 1-隐藏 Monkeypatching](https://jsbin.com/cagako/edit?js,console)
+
+[TODO 1-移除 Monkeypatching](https://jsbin.com/pilihu/edit?js,output)
+
+
+
+
 
 [DEMO 2-thunk middleware](https://jsbin.com/towucac/1/edit?js,output)
 
