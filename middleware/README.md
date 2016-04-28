@@ -26,6 +26,7 @@
 # applyMiddleware
 
 [source code](https://github.com/reactjs/redux/blob/master/src/applyMiddleware.js)
+[source code demo](https://jsbin.com/sahomehefu/edit?js,output)
 
 ## nested function
   - currying
