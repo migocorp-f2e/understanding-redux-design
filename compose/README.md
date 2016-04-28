@@ -19,6 +19,7 @@
     
 - compose + for loop
 	* [Demo](http://jsbin.com/zeqero/edit?js,console)
+- [PDF](https://github.com/migocorp-f2e/understanding-redux-design/blob/master/compose/redux-compose.pdf) 
 
 ## 資源
 - [函數式編程初探 - 阮一峰](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
