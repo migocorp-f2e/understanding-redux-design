@@ -25,6 +25,8 @@
 
 # applyMiddleware
 
+[source code](https://github.com/reactjs/redux/blob/master/src/applyMiddleware.js)
+
 ## nested function
   - currying
   - closure
