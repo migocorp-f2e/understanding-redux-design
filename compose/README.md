@@ -22,7 +22,7 @@
 
 - [簡報PDF](https://github.com/migocorp-f2e/understanding-redux-design/blob/master/compose/redux-compose.pdf) 
 - [compose 應用](http://scott.sauyet.com/Javascript/Talk/Compose/2013-05-22/#slide-18)
-
+- [redux compose 應用](https://jsbin.com/tumozojoye/edit?js,console)
 ## 資源
 - [函數式編程初探 - 阮一峰](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
 - [reduceRight](https://msdn.microsoft.com/zh-tw/library/ff679979(v=vs.94).aspx)
