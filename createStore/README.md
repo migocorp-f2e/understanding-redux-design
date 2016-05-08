@@ -1,7 +1,6 @@
 # createStore
 
 Design pattern:
-Design pattern:
  - Observer (觀察者模式)
    * [Demo](https://jsbin.com/tugulo/edit?js,console)
    * [Todo](https://jsbin.com/qucalu/edit?js,console)
