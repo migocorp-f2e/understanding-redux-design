@@ -11,7 +11,7 @@ connect 重點：
  - 透過 context 取得 redux store，再由store.getState()取出 state
    * [code link](https://github.com/reactjs/react-redux/blob/master/src/components/connect.js#L83-L93)
 
- - componentDidMount  去 store.subscribe ，增聽 store state 的改變，去 redner 畫面，componentWillUnmount 時，unsubscribe store
+ - componentDidMount  去 store.subscribe ，增聽 store state 的改變，componentWillUnmount 時，unsubscribe store
    * [code link](https://github.com/reactjs/react-redux/blob/master/src/components/connect.js#L197-L224)
 
  - 防止 component 不必要的更新
