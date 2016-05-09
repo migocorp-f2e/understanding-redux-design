@@ -2,7 +2,7 @@
 
 Design pattern:
  - Higher-order function (高階函數)
- - Higher-order component (高階組建)
+ - Higher-order component (高階組件)
 
 connect 重點：
  - merge 傳進來的 mapStateToProps, mapDispatchToProps 傳給 component 的 props
