@@ -2,7 +2,10 @@
 
 Design pattern:
  - Higher-order function (高階函數)
+   * [demo](http://jsbin.com/xutewu/edit?js,console,output)
+
  - Higher-order component (高階組件)
+   * [demo](https://jsbin.com/yugohut/edit?js,output)
 
 connect 重點：
  - merge 傳進來的 mapStateToProps, mapDispatchToProps 傳給 component 的 props
