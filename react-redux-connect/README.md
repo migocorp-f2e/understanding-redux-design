@@ -7,6 +7,9 @@ Design pattern:
  - Higher-order component (高階組件)
    * [demo](https://jsbin.com/yugohut/edit?js,output)
 
+# connect Demo:
+ [demo](https://jsbin.com/fojede/edit?js,output)
+
 connect 重點：
  - merge 傳進來的 mapStateToProps, mapDispatchToProps 傳給 component 的 props
    * [code link](https://github.com/reactjs/react-redux/blob/master/src/components/connect.js#L10-L50)
