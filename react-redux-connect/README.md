@@ -4,7 +4,8 @@ Design pattern:
  - Higher-order function (高階函數)
    * [demo](http://jsbin.com/xutewu/edit?js,console,output)
    * [todo](http://jsbin.com/vexocu/edit?js,console)
-
+   * [answer](http://jsbin.com/teqoso/edit?js,console)
+ 
  - Higher-order component (高階組件)
    * [demo](https://jsbin.com/yugohut/edit?js,output)
 
